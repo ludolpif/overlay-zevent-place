@@ -4,6 +4,8 @@
 
 Ce dépot contient des scripts pour faciliter de production et l'affichage de calques (overlays) sur https://place.zevent.fr.
 
+⚠ Je ne fais pas partie du staff du ZEvent, je suis un simple viewer qui a écrit des scripts.
+
 ## Liens directs (lisez Vocabulaire en bas avant SVP)
 
 ### Afficher des overlays sur le site https://place.zevent.fr avec le 🌐-browser-script
